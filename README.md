@@ -54,22 +54,23 @@ Don't forget that your Client's company is Hungarian so the Hungarian hospitals 
     - The users can see the hospitals data connected to their account
     - The users can select from their hospitals for issuing the invoice
 
-## General requirements
-
-None
-
 ## Hints
 
 - Before you start the project, check the documentation of the Billingo API especially the required data for partner and invoice creation (build the hopsital database on those data)
 - Pay special attention to the format of all API values (string, number, date formats)
 - You can solve the registration and login with Passport.js
 
-## Background materials
+## Add a custom hospital 
+![added_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/ab02ed05-da7a-424b-b12f-57a6c6401457)
 
-- <i class="far fa-exclamation"></i> [Billingo API documentation](https://app.swaggerhub.com/apis/Billingo/Billingo)
-- <i class="far fa-exclamation"></i> [Passport JS](http://www.passportjs.org)
-- <i class="far fa-book-open"></i> [MongoDB - NoSQL database](https://www.mongodb.com/)
-- <i class="far fa-book-open"></i> [MongooseJS - MongoDB connector](https://mongoosejs.com/)
-- <i class="far fa-book-open"></i> [Simple CRUD app with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb)
-- <i class="far fa-book-open"></i> [Set up an Express.Js App With Passport.Js and Mongodb for Password Authentication](https://medium.com/swlh/set-up-an-express-js-app-with-passport-js-and-mongodb-for-password-authentication-6ea05d95335c)
-- <i class="far fa-book-open"></i> [Authenticate Users With Node ExpressJS and Passport.js](https://heynode.com/tutorial/authenticate-users-node-expressjs-and-passportjs)
+## Select from a list of existing hospitals
+![new_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/981774d5-8c57-4dcc-b67f-90a4b085f83a)
+
+## Display all hospitals by user who is logged in
+![existing_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/da7292da-6f60-4f3a-9574-54e6c81dda19)
+
+## View list of orders and generate invoice
+![list_of_orders](https://github.com/StefanCristian1204/mask-stock/assets/97633357/9ddfdf34-bdd1-44b6-a34f-2e532b13d992)
+
+
+
