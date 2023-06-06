@@ -73,7 +73,3 @@ None
 - <i class="far fa-book-open"></i> [Simple CRUD app with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb)
 - <i class="far fa-book-open"></i> [Set up an Express.Js App With Passport.Js and Mongodb for Password Authentication](https://medium.com/swlh/set-up-an-express-js-app-with-passport-js-and-mongodb-for-password-authentication-6ea05d95335c)
 - <i class="far fa-book-open"></i> [Authenticate Users With Node ExpressJS and Passport.js](https://heynode.com/tutorial/authenticate-users-node-expressjs-and-passportjs)
-
-![1](https://github.com/StefanCristian1204/mask-stock/assets/97633357/b04d9f1e-551a-480f-89d8-5e026d7df16e)
-![2](https://github.com/StefanCristian1204/mask-stock/assets/97633357/c88a47fc-90fa-4ae5-979a-8b1aca799765)
-![3](https://github.com/StefanCristian1204/mask-stock/assets/97633357/fe932ee3-9876-40c2-a74d-bc1fcb379363)
