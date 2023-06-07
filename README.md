@@ -61,16 +61,20 @@ Don't forget that your Client's company is Hungarian so the Hungarian hospitals 
 - You can solve the registration and login with Passport.js
 
 ## Add a custom hospital 
-![added_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/ab02ed05-da7a-424b-b12f-57a6c6401457)
+![added_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/d97ca5ee-69f9-411d-b9e5-9c0c8e5f85b6)
+
 
 ## Select from a list of existing hospitals
-![new_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/981774d5-8c57-4dcc-b67f-90a4b085f83a)
+![new_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/99f78951-b85a-4679-905c-2ce075a2bc02)
+
 
 ## Display all hospitals by user who is logged in
-![existing_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/da7292da-6f60-4f3a-9574-54e6c81dda19)
+![existing_hospital](https://github.com/StefanCristian1204/mask-stock/assets/97633357/6612656b-585e-4c31-89de-a4b09ff86910)
+
 
 ## View list of orders and generate invoice
-![list_of_orders](https://github.com/StefanCristian1204/mask-stock/assets/97633357/9ddfdf34-bdd1-44b6-a34f-2e532b13d992)
+![list_of_orders](https://github.com/StefanCristian1204/mask-stock/assets/97633357/12187926-523a-406b-9a83-a84dbe5eeab2)
+
 
 
 
